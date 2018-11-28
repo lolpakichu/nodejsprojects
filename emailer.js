@@ -55,6 +55,7 @@ rl.question('What is your email? ', (email) => {
               }
             });
           }
+          rl.close();
         });
       });
       
