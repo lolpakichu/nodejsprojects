@@ -14,7 +14,7 @@ var mailMessage;
 
 var subject;
 
-    
+
 // readline interface
 const rl = readline.createInterface({
   input: process.stdin,
